@@ -115,7 +115,7 @@ input{
 	box-shadow: $shadow;
 	text-transform: uppercase;
 	text-decoration: none;
-	padding: 1.2rem 4rem;
+	padding: 1.2rem 2rem;
 	font-weight: 300;
 	font-size: 1.3rem;
 	&:active{
@@ -1557,8 +1557,7 @@ footer.botFooter{
 		display: none;
 	}
 	
-	section.locator{
-		
+	section.neverMiss{
+		justify-content: center; 
 	}
-	
 }
